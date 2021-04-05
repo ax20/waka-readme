@@ -1,3 +1,6 @@
+Projects:
+- RESTful API's with Flask
+- Frontend Development with ReactJS
 <!--START_SECTION:waka-->
 ```text
 Python   5 hrs 56 mins   ████████▒░░░░░░░░░░░░░░░░   33.25 % 
