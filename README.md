@@ -1,8 +1,5 @@
-Currently working on:
+Working on RESTful API's with Flask, and Frontend Development with ReactJS
 <hr>
-
-- RESTful API's with Flask
-- Frontend Development with ReactJS
 
 <!--START_SECTION:waka-->
 ```text
