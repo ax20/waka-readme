@@ -1,4 +1,4 @@
-Working on RESTful API's with Flask, and Frontend Development with ReactJS
+Working on RESTful API's with Flask, and frontend development with ReactJS
 <hr>
 
 <!--START_SECTION:waka-->
