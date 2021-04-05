@@ -1,4 +1,4 @@
-Projects:
+Currently working on:
 - RESTful API's with Flask
 - Frontend Development with ReactJS
 <!--START_SECTION:waka-->
