@@ -1,4 +1,8 @@
-Working on RESTful API's with Flask, and frontend development with ReactJS
+<div id="user-content-toc">
+  <ul>
+    🢂 Working on RESTful API's with Flask, and frontend development with ReactJS
+  </ul>
+</div>
 <hr>
 
 <!--START_SECTION:waka-->
