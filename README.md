@@ -1,9 +1,4 @@
-<div id="user-content-toc">
-  <ul>
-    🢂 Working on RESTful API's with Flask, and frontend development with ReactJS
-  </ul>
-</div>
-<hr>
+🢂 Working on RESTful API's with [Flask](https://flask.palletsprojects.com/en/1.1.x/), and frontend development with [ReactJS](https://reactjs.org/)
 
 <!--START_SECTION:waka-->
 ```text
