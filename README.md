@@ -1,4 +1,4 @@
-🢂 Working on RESTful API's with [Flask](https://flask.palletsprojects.com/en/1.1.x/), and frontend development with [ReactJS](https://reactjs.org/)
+🢂 Working on RESTful API's with [Flask](https://flask.palletsprojects.com/en/1.1.x/), and frontend development with ~~[ReactJS](https://reactjs.org/)~~ [Svelte](https://svelte.dev/)
 
 <!--START_SECTION:waka-->
 ```text
