@@ -1,5 +1,6 @@
-🢂 Working on RESTful API's with [Flask](https://flask.palletsprojects.com/en/1.1.x/), and frontend development with [Svelte](https://svelte.dev/)
-🢂 Queue: Desktop apps with Golang
+🢂 Currently working on: RESTful API's with [Flask](https://flask.palletsprojects.com/en/1.1.x/)
+<br>🢂 Planning on: Desktop Applications with [Golang](https://golang.org/), Frontend with [Svelte](https://svelte.dev/)
+<hr>
 
 <!--START_SECTION:waka-->
 ```text
