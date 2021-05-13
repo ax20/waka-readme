@@ -1,5 +1,5 @@
 🢂 Currently working on: Backend with [Flask](https://flask.palletsprojects.com/en/1.1.x/), Frontend with [Svelte](https://svelte.dev/)
-<br>🢂 Planning on: Machine Learning with [Python](https://python.org/), Desktop Applications with [Golang](https://golang.org/)
+<br>🢂 Planning on: Machine Learning with [Python](https://python.org/), Desktop Applications with [Rust](https://rust-lang.org/)
 <hr>
 
 <!--START_SECTION:waka-->
