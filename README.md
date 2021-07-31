@@ -4,8 +4,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-CSS         4 mins          ██████████████░░░░░░░░░░░   55.47 % 
-Batchfile   2 mins          ███████▒░░░░░░░░░░░░░░░░░   29.44 % 
-HTML        1 min           ███▓░░░░░░░░░░░░░░░░░░░░░   15.09 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
