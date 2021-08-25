@@ -4,8 +4,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Java     1 hr 58 mins    ███████████████████████▒░   93.85 % 
-Python   5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
-CSS      2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
